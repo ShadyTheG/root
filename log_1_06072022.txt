@@ -1,3 +1,6 @@
 06/07/2022
 Log #1
 
+Started The Odin Project...
+Just learning how to use html and saving version control with Git... So I thought I would start a log
+of all the new things I've learned for the day.
