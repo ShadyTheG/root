@@ -8,3 +8,6 @@ of all the new things I've learned for the day.
 I've been able to learn the different headers some of the basic ones as well as bold and italic element tags.
 I'm about to learn how to imbed images to the webpage. This hopefully will all seem like basic stuff in the 
 future I want it to become second nature. Hopefully I can start my own free lance company.
+
+I also started the Recipe Project on The Odin Projects foundations path... I just need to find projects to keep
+working on so that I can ingrain these skills into muscle memory. Hopefully this helps!
