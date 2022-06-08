@@ -4,3 +4,7 @@ Log #1
 Started The Odin Project...
 Just learning how to use html and saving version control with Git... So I thought I would start a log
 of all the new things I've learned for the day.
+
+I've been able to learn the different headers some of the basic ones as well as bold and italic element tags.
+I'm about to learn how to imbed images to the webpage. This hopefully will all seem like basic stuff in the 
+future I want it to become second nature. Hopefully I can start my own free lance company.
